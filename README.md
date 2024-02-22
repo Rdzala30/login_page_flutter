@@ -1,16 +1,3 @@
 # login_page_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Task1](https://github.com/Rdzala30/login_page_flutter/assets/92252661/83163bca-cc8a-4d1d-93fb-a50404d2d7b4)
+![Task2](https://github.com/Rdzala30/login_page_flutter/assets/92252661/1460e333-2181-457f-b126-7570c861902f)
